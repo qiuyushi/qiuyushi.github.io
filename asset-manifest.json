@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "../publish/static/css/main.052be334.chunk.css",
-    "main.js": "../publish/static/js/main.d51407c3.chunk.js",
-    "main.js.map": "../publish/static/js/main.d51407c3.chunk.js.map",
-    "runtime-main.js": "../publish/static/js/runtime-main.04c1a0b7.js",
-    "runtime-main.js.map": "../publish/static/js/runtime-main.04c1a0b7.js.map",
-    "static/js/2.2057682a.chunk.js": "../publish/static/js/2.2057682a.chunk.js",
-    "static/js/2.2057682a.chunk.js.map": "../publish/static/js/2.2057682a.chunk.js.map",
-    "static/js/3.3cf689be.chunk.js": "../publish/static/js/3.3cf689be.chunk.js",
-    "static/js/3.3cf689be.chunk.js.map": "../publish/static/js/3.3cf689be.chunk.js.map",
-    "index.html": "../publish/index.html",
-    "static/css/main.052be334.chunk.css.map": "../publish/static/css/main.052be334.chunk.css.map",
-    "static/js/2.2057682a.chunk.js.LICENSE.txt": "../publish/static/js/2.2057682a.chunk.js.LICENSE.txt",
-    "static/media/index.css": "../publish/static/media/pic3.ebf98a2c.jpeg"
+    "main.css": "/https//qiuyushi/qiuyushi.github.io/static/css/main.8ac75286.chunk.css",
+    "main.js": "/https//qiuyushi/qiuyushi.github.io/static/js/main.d51407c3.chunk.js",
+    "main.js.map": "/https//qiuyushi/qiuyushi.github.io/static/js/main.d51407c3.chunk.js.map",
+    "runtime-main.js": "/https//qiuyushi/qiuyushi.github.io/static/js/runtime-main.8cbbcf1c.js",
+    "runtime-main.js.map": "/https//qiuyushi/qiuyushi.github.io/static/js/runtime-main.8cbbcf1c.js.map",
+    "static/js/2.2057682a.chunk.js": "/https//qiuyushi/qiuyushi.github.io/static/js/2.2057682a.chunk.js",
+    "static/js/2.2057682a.chunk.js.map": "/https//qiuyushi/qiuyushi.github.io/static/js/2.2057682a.chunk.js.map",
+    "static/js/3.3cf689be.chunk.js": "/https//qiuyushi/qiuyushi.github.io/static/js/3.3cf689be.chunk.js",
+    "static/js/3.3cf689be.chunk.js.map": "/https//qiuyushi/qiuyushi.github.io/static/js/3.3cf689be.chunk.js.map",
+    "index.html": "/https//qiuyushi/qiuyushi.github.io/index.html",
+    "static/css/main.8ac75286.chunk.css.map": "/https//qiuyushi/qiuyushi.github.io/static/css/main.8ac75286.chunk.css.map",
+    "static/js/2.2057682a.chunk.js.LICENSE.txt": "/https//qiuyushi/qiuyushi.github.io/static/js/2.2057682a.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/https//qiuyushi/qiuyushi.github.io/static/media/pic3.ebf98a2c.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.04c1a0b7.js",
+    "static/js/runtime-main.8cbbcf1c.js",
     "static/js/2.2057682a.chunk.js",
-    "static/css/main.052be334.chunk.css",
+    "static/css/main.8ac75286.chunk.css",
     "static/js/main.d51407c3.chunk.js"
   ]
 }
